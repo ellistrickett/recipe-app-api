@@ -27,3 +27,5 @@ class AdminSiteTests(TestCase):
         self.assertContains(res, self.user.email)
 
 
+
+
